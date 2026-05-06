@@ -1,47 +1,63 @@
 # 🧾 Namma-Santhe Ledger
 
-Namma-Santhe Ledger is an Android application designed for local market vendors (Santhe) to manage customer transactions digitally.  
-It replaces traditional handwritten ledgers with a simple, reliable, and offline-first solution.
+<p align="center">
+  <b>Digitizing local market credit systems with simplicity and reliability</b><br>
+  <i>Built for real-world Santhe environments</i>
+</p>
+
+<p align="center">
+  <img src="screenshots/dashboard.jpeg" width="30%" />
+  <img src="screenshots/customer.jpeg" width="30%" />
+</p>
 
 ---
 
-## 🚀 Features
+## 🚀 Overview
+
+Namma-Santhe Ledger is a modern Android application designed to help small vendors manage customer credits and payments digitally.
+
+It replaces traditional handwritten ledgers with a **simple, offline-first, and user-friendly solution**.
+
+---
+
+## ✨ Features
 
 - 👤 Add and manage customers  
 - 💸 Record credit (udhari) and payments  
 - 📊 Automatic balance calculation  
-- 📱 Send payment reminders via SMS / WhatsApp  
-- 💾 Offline data storage using Room Database  
-- 🎨 Clean and user-friendly UI (Jetpack Compose)
+- 📱 Send reminders via SMS / WhatsApp  
+- 💾 Offline data storage (Room DB)  
+- 🎨 Clean UI using Jetpack Compose  
 
 ---
 
-## 📲 Demo Flow
+## 🎬 Demo Flow
 
-1. Add a Customer  
-2. Record a Credit Transaction  
-3. Record a Payment  
-4. View updated balance on dashboard  
-5. Send reminder via WhatsApp/SMS  
+1. Add Customer  
+2. Add Credit Transaction  
+3. Record Payment  
+4. View Balance  
+5. Send Reminder  
 
 ---
 
-## 🧠 Problem Statement
+## 🧠 Problem
 
-Small vendors in local markets rely on handwritten notebooks to track customer credits and payments.  
-This leads to:
-- Data loss  
-- Calculation errors  
-- Difficulty in tracking dues  
+Local vendors rely on notebooks to track transactions, leading to:
+
+- ❌ Data loss  
+- ❌ Manual calculation errors  
+- ❌ Difficulty tracking dues  
 
 ---
 
 ## 💡 Solution
 
-Namma-Santhe Ledger digitizes this process by:
-- Providing structured transaction tracking  
-- Automatically calculating balances  
-- Enabling quick communication with customers  
+A lightweight Android app that:
+
+- Digitizes transaction tracking  
+- Automatically calculates balances  
+- Enables instant customer communication  
 
 ---
 
@@ -56,27 +72,28 @@ Namma-Santhe Ledger digitizes this process by:
 
 ## 📊 Use Case
 
-Designed specifically for:
-- Local vendors  
-- Small shop owners  
-- Santhe (market) sellers  
+Perfect for:
 
-Works completely **offline**, making it suitable for real-world environments.
+- 🛒 Local vendors  
+- 🏪 Small shop owners  
+- 🌾 Santhe (market) sellers  
+
+> Works completely offline — ideal for real-world usage
 
 ---
 
-## 🔮 Future Enhancements
+## 🔮 Future Roadmap
 
-- 🔊 Voice-based transaction entry (local languages)  
+- 🔊 Voice-based input (local languages)  
 - 💳 UPI payment integration  
-- ☁️ Cloud sync & backup  
-- 📈 Analytics dashboard  
+- ☁️ Cloud sync  
+- 📈 Insights & analytics  
 
 ---
 
 ## 🎯 Key Highlight
 
-> Designed for real-world Santhe environments with offline-first and low-literacy usability.
+> Designed for low digital literacy users with an offline-first approach.
 
 ---
 
@@ -87,13 +104,16 @@ Works completely **offline**, making it suitable for real-world environments.
   <img src="screenshots/customer.jpeg" width="45%" />
 </p>
 
+---
+
 ## 👩‍💻 Author
 
 **AmulyaKR13**  
-GitHub: https://github.com/AmulyaKR13
+🔗 https://github.com/AmulyaKR13
 
 ---
 
 ## ⭐ Support
 
-If you found this useful, consider giving it a ⭐ on GitHub!
+If you like this project, consider giving it a ⭐  
+It helps others discover it!
