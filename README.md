@@ -82,9 +82,10 @@ Works completely **offline**, making it suitable for real-world environments.
 
 ## 📸 Screenshots
 
-_Add your app screenshots here_
-
----
+<p align="center">
+  <img src="screenshots/dashboard.jpeg" width="45%" />
+  <img src="screenshots/customer.jpeg" width="45%" />
+</p>
 
 ## 👩‍💻 Author
 
